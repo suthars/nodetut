@@ -1,0 +1,17 @@
+{
+    "name": "nodetut",
+    "version": "1.0.0",
+    "description": "node tut tutorials",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "express": "~4.11.x",
+        "file-system": "*",
+        "path": "*",
+        "jslint": "*"
+    },
+    "author": "Suresh suthar",
+    "license": "ISC"
+}
